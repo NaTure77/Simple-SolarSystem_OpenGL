@@ -1,4 +1,4 @@
-# SolarSystem_OpenGL
+# Simple SolarSystem_OpenGL
  Soongsil Univ 4-1 Computer Graphics Final Assignment
 
 ## Video
